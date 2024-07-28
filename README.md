@@ -17,4 +17,5 @@ Este projeto não é um programa funcional, mas sim uma coleção de conceitos e
 
 ## 🚀 Tecnologias Utilizadas
 
-- JavaScript
+- JavaScript: Manipular objetos em JS.
+- Node.js: Ambiente de execução do JavaScript no backend.
